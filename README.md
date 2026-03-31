@@ -13,7 +13,7 @@ To learn more about Lumigator's features and capabilities, see the
 [example notebook](/notebooks/walkthrough.ipynb) for a platform API walkthrough.
 
 > [!NOTE]
-> Lumigator is in the early stages of development. It is missing important features and
+> Lumigator is in the early stages of development. It is missing important features 
 > documentation. You should expect breaking changes in the core interfaces and configuration
 > structures as development continues.
 
