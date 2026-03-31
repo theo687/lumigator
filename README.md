@@ -1,4 +1,4 @@
-# Mozilla.ai Lumigator 🐊
+# Mozilla Lumigator 🐊
 
 [![Lumigator pipeline](https://github.com/mozilla-ai/lumigator/actions/workflows/lumigator_pipeline.yaml/badge.svg?branch=main)](https://github.com/mozilla-ai/lumigator/actions/workflows/lumigator_pipeline.yaml)
 [![Docs](https://github.com/mozilla-ai/lumigator/actions/workflows/build_and_publish_docs.yaml/badge.svg)](https://github.com/mozilla-ai/lumigator/actions/workflows/build_and_publish_docs.yaml)
